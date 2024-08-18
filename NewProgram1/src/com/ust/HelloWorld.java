@@ -6,6 +6,7 @@ public class HelloWorld {
 		System.out.println("Hello world");
 		System.out.println("New message");
 		System.out.println("New Update");
+		System.out.println("New Update for new clone");
 	}
 
 }
