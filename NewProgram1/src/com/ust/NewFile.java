@@ -6,6 +6,7 @@ public class HelloWorld {
 
 		System.out.println("New File!");
 		System.out.println("New change updated!");
+		System.out.println("welcome!");
 	}
 
 }
